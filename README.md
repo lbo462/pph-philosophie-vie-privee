@@ -2,11 +2,17 @@
 
 Ce document a été rédigé dans le contexte du cours de PPH.
 
+## La version finale de ce document est le fichier PDF !
+
+La suite de ce document correspond au travail rendu pour le cours de PPH.
+
+Il a été légèrement été retravaillé et mis en forme dans le fichier PDF disponible à la racine de ce repo.  
+
 > Auteur : Léo BONNAIRE (leo.bonnaire@insa-lyon.fr), élève de l’INSA Lyon, 5TCA (5e année du département Télécommunication)
 > 
 > Tuteur : Mathieu Cunche
 > 
-> Jurys : Mathieu Cunche, David Chaumard
+> Jurys : Mathieu Cunche, Davyd Chaumard
 >
 > Date : 24 janvier 2025 (année scolaire 2024-2025, premier semestre)
 
